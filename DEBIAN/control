@@ -1,0 +1,11 @@
+Package: x11
+Version: 1
+Architecture: all
+Depends: 
+Pre-Depends:
+Recommends: 
+Maintainer: Bayram Karahan [bayramk@gmail.com]
+Conflicts: 
+Replaces: 
+Provides: x11
+Description: x11 yazılımı
